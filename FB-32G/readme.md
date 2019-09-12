@@ -1,7 +1,7 @@
 # FB-32G CD32 Riser Gamer Module
 
 This is first module created for the FB-32R CD32 Riser
-It has the following feature:
+It has the following features:
 
 Amiga 23pin Scart Video Connector (non-Genlock)
 Minimig Scart output (with Ian Stedmans 3.3V Sync level correction which is selectable via jumper JP1)
