@@ -4,9 +4,13 @@ This is first module created for the FB-32R CD32 Riser
 It has the following features:
 
 Amiga 23pin Scart Video Connector (non-Genlock)
+
 Minimig Scart output (with Ian Stedmans 3.3V Sync level correction which is selectable via jumper JP1)
+
 Audio Jack
+
 PS/2 Keyboard Interface - using the PIC16F628A (in a SSOP Package) running the same code as Kipper2K's CD32 riser
+
 RS232 Serial - Basic Non-handshaking
 
 # Build Notes:
